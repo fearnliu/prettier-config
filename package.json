@@ -3,7 +3,7 @@
   "type": "module",
   "name": "@fearnliu/prettier-config",
   "version": "0.1.0",
-  "description": "Fearn Liu shared Prettier config",
+  "description": "A shared Prettier config",
   "keywords": [
     "config",
     "javascript",
