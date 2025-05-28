@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/package.json",
   "type": "module",
   "name": "@fearnliu/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A shared Prettier config",
   "keywords": [
     "config",
