@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "type": "module",
+  "name": "@fearnliu/prettier-config",
+  "version": "0.1.0",
+  "description": "Fearn Liu shared Prettier config",
+  "keywords": [
+    "config",
+    "javascript",
+    "prettier",
+    "react",
+    "typescript",
+    "vue"
+  ],
+  "homepage": "https://github.com/fearnliu/prettier-config",
+  "bugs": {
+    "url": "https://github.com/fearnliu/prettier-config/issues"
+  },
+  "license": "MPL-2.0",
+  "author": {
+    "name": "Fearn Liu",
+    "email": "16191685+fearnliu@users.noreply.github.com",
+    "url": "https://github.com/fearnliu"
+  },
+  "contributors": [],
+  "files": [
+    "index.js"
+  ],
+  "exports": {
+    ".": "./index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearnliu/prettier-config.git"
+  },
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
